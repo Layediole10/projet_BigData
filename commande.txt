@@ -1,0 +1,3 @@
+mkdir mon_projet_test
+echo "ma premiere ligne test sur git" >> test.txt
+cat test.txt
